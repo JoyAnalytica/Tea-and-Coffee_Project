@@ -15,8 +15,7 @@ Overall, it is a simple and effective database solution for small café or tea s
 
 Pandas : Tea and Coffee Project:
 
-
-https://github.com/JoyAnalytica/Tea-and-Coffee_Project/blob/main/Tea%20and%20Coffee%20Project.ipynb
+(https://github.com/JoyAnalytica/Tea-and-Coffee_Project/blob/main/Tea%20and%20Coffee%20House.ipynb)
 
 Project Summary: Tea & Coffee Shop Management System (Python)
 
